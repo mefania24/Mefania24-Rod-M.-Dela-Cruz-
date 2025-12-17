@@ -22,5 +22,5 @@
   * **An application for restuarant to order the menu online**
   * **(not yet done)**
   ### 📞Contact
-* **[lianmallaribrosa@gmail](lianmallaribrosa@gmail.com)**
-* **[Facebook](facebook.com/roddelacruz)**
+* **[lianmallaribrosa@gmail](https://accounts.google.com/SignOutOptions?hl=en&continue=https://myaccount.google.com/%3Futm_source%3Dchrome-profile-chooser%26pli%3D1&ec=GBRAwAE)**
+* **[Facebook](https://www.facebook.com/share/1DDWdCVDwS/)**
