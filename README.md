@@ -1,6 +1,6 @@
 ### 🤚Introduction
 **Hi i am <br> ![Dela cruz Rod](https://scontent.fmnl3-4.fna.fbcdn.net/v/t39.30808-1/481238452_1159505645820678_5311507838199044021_n.jpg?stp=c448.0.736.736a_dst-jpg_s100x100_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGHy-UufXH8zPgDMZh_wvqWvwzMm88Mz76_DMybzwzPvkPTBms83T6kmjTAHNbAxGy0lko8Q4qzeNPO_YK51klp&_nc_ohc=XfbrXJlHFQsQ7kNvwHAhTiB&_nc_oc=AdklBMriTD3XGTVEtHSvIPTxurEyvt_DEvFwdrGLK2YS06PuC2G9riIiWGndUcngP4M&_nc_zt=24&_nc_ht=scontent.fmnl3-4.fna&_nc_gid=xRmw7y_dQKg77INxAIfW2Q&oh=00_AfmQv3x5tuU2lbgy5Quxv2FZdREENVZuQRQat-YsLCud6A&oe=6948354C)** <br> **<ins>Dela Cruz Rod</ins>** <br>
-**A Bachelor in science information and technology Student** <br>
+**A Bachelor of Science in Information and Technology Student** <br>
 ### About Me
 * **Hi i am <ins>Mr. Dela cruz</ins> who still learning in my course and expand my knowledge about programming** <br>
 * **I am still learning a programming i only know some basic programming languages** <br>
